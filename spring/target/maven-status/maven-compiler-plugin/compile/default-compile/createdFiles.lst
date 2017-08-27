@@ -1,0 +1,8 @@
+cn\zhang\model\UserRole.class
+cn\zhang\dao\ReolMapper.class
+cn\zhang\dao\UserMapper.class
+cn\zhang\model\User.class
+cn\zhang\service\UserService.class
+cn\zhang\dao\UserRoleMapper.class
+cn\zhang\service\impl\UserServiceImp.class
+cn\zhang\model\Reol.class
